@@ -32,7 +32,7 @@ IT professional passionate about code and tech. I have recently graduated a Full
 
 ### <img width="26px" align="absbottom" src="https://media.giphy.com/media/c8knYYZ5vzC8V6tpMI/giphy.gif"> Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img height="175" width="420" src="https://streak-stats.demolab.com?user=sarhan-a&date_format=j%20M%5B%20Y%5D&background=FFFFFF41&dates=000000&sideLabels=000000&currStreakLabel=CF610E" alt="Sarhan's streak stats" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="175" width="420" src="https://github-readme-stats.vercel.app/api?username=sarhan-a&count_private=true&show_icons=true&title_color=fb8c01&icon_color=CF610E&bg_color=FFFFFF41&text_color=000000&custom_title=Sarhan's+GitHub+Stats" /></a>
+  <a href="https://git.io/streak-stats"><img height="164" width="420" src="https://streak-stats.demolab.com?user=sarhan-a&date_format=j%20M%5B%20Y%5D&background=FFFFFF41&dates=000000&sideLabels=000000&currStreakLabel=CF610E" alt="Sarhan's streak stats" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="164" width="420" src="https://github-readme-stats.vercel.app/api?username=sarhan-a&count_private=true&show_icons=true&title_color=fb8c01&icon_color=CF610E&bg_color=FFFFFF41&text_color=000000&custom_title=Sarhan's+GitHub+Stats" /></a>
 </p>
 
