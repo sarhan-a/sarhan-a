@@ -3,7 +3,7 @@
 **`Full-Stack Developer`**
 
 IT professional passionate about code and tech. I have recently graduated a Full-Stack Web Developer Bootcamp at Le Wagon London and I can't wait to start my career in Web Development! Feel free to get in touch if you would like to collaborate on projects.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript and React
 - 👨‍💻 I’m also working on polishing my bootcamp Rails projects ( <a href="https://github.com/sarhan-a/redore">redore</a> and <a href="https://github.com/Jacopobelli5/floatyaboat">floatyaboat</a> )
 - 📧 Get in touch <a href="mailto:sarhan.alim@gmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/sarhan-alim/"> LinkedIn</a>
 ---
