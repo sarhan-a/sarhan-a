@@ -4,7 +4,7 @@
 
 IT professional passionate about code and tech. I have recently graduated a Full-Stack Web Developer Bootcamp at Le Wagon London and I'm looking forward to a career in Web Development! Feel free to get in touch if you would like to collaborate on projects or you want to discuss about learning to code.
 - 🌱 I’m currently learning in-depth JavaScript and React
-- 👨‍💻 I’m working on polishing my bootcamp Rails projects ( <a href="https://github.com/sarhan-a/redore">redore</a> and <a href="https://github.com/Jacopobelli5/floatyaboat">floatyaboat</a> )
+- 👨‍💻 I’m working on polishing my bootcamp Rails projects ( <a href="https://github.com/sarhan-a/redore">redore</a> and <a href="https://github.com/sarhan-a/floatyaboat">floatyaboat</a> )
 - 📧 Get in touch <a href="mailto:sarhan.alim@gmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/sarhan-alim/"> LinkedIn</a>
 ---
 ### <img width="26px" align="absbottom" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"> Languages & Tools
